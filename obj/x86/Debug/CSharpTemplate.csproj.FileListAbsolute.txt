@@ -1,0 +1,9 @@
+\\VBOXSVR\Projects_VM\CommandLine\src\templates\CSharpTemplate\bin\Debug\CSharpTemplate.exe.config
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CSharpTemplate.exe.config
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\CSharpTemplate.csprojResolveAssemblyReference.cache
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CSharpTemplate.exe
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CSharpTemplate.pdb
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CommandLine.dll
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CommandLine.xml
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\CSharpTemplate.exe
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\CSharpTemplate.pdb

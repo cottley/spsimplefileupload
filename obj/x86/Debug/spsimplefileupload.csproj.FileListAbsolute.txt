@@ -1,0 +1,11 @@
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\spsimplefileupload.exe.config
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\spsimplefileupload.exe
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\spsimplefileupload.pdb
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CommandLine.dll
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\CommandLine.xml
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\spsimplefileupload.exe
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\spsimplefileupload.pdb
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\spsimplefileupload.exe.manifest
+D:\NotBackedUp\Development\spsimplefileupload\bin\Debug\spsimplefileupload.application
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\spsimplefileupload.exe.manifest
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Debug\spsimplefileupload.application
