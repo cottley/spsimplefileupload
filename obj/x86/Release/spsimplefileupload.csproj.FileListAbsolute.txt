@@ -7,3 +7,4 @@ D:\NotBackedUp\Development\spsimplefileupload\bin\Release\CommandLine.xml
 D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Release\spsimplefileupload.exe.manifest
 D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Release\spsimplefileupload.application
 D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Release\spsimplefileupload.exe
+D:\NotBackedUp\Development\spsimplefileupload\obj\x86\Release\spsimplefileupload.csprojResolveAssemblyReference.cache

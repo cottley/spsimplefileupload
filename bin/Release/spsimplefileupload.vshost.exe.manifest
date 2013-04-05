@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="spsimplefileupload.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="spsimplefileupload" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="spsimplefileupload" version="0.1.2.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="spsimplefileupload.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -42,6 +42,16 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.SharePoint.Client" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Runtime" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CommandLine.dll" size="58368">
       <assemblyIdentity name="CommandLine" version="1.9.71.2" publicKeyToken="DE6F01BD326F8C32" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -54,14 +64,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spsimplefileupload.exe" size="5632">
-      <assemblyIdentity name="spsimplefileupload" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\Microsoft.SharePoint.Client.Runtime.resources.dll" size="14720">
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Runtime.Resources" version="14.0.0.0" publicKeyToken="71E9BCE111E9429C" language="en-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>z0AMh9c+7MRwuOd8AoTt3elFCjU=</dsig:DigestValue>
+        <dsig:DigestValue>P0CVHnF6i5WUCut84E7jeIvkIOU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spsimplefileupload.exe" size="7680">
+      <assemblyIdentity name="spsimplefileupload" version="0.1.2.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>SuST14I7ILSiaWO+2/zKVrV98qU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
